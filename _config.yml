@@ -3,6 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+theme: Midnight
 include:
   - CONTRIBUTING.md
   - README.md
@@ -12,4 +13,3 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-theme: Midnight
