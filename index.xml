@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Races on Isis Events 2021</title>
+    <link>/</link>
+    <description>Recent content in Races on Isis Events 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>A site that shows information about events held on the Isis (the stretch of Thames in central Oxford).
+Maintained by Anna Railton using crowd-sourced information. The more information you send me, the more useful this website will be.
+Any corrections or additions:
+email info@isiscalendar.org.uk open a PR on GitHub </description>
+    </item>
+    
+    <item>
+      <title>Note on EA river restrictions</title>
+      <link>/ea_restrictions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/ea_restrictions/</guid>
+      <description>Some of the events listed in these pages will have river restrictions in place. A river restriction is granted by the EA and gives permission to hold up river traffic for a short period of time. Marshalls ensure a clear navigation channel to other users e.g. in between divisions.
+It is NOT the same as a closure, which are much more difficult and expensive to arrange.
+You can see the latest Thames river restriction and closures here: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Recurring events and restrictions</title>
+      <link>/recurring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/recurring/</guid>
+      <description>Dates Time of day Event Location Tuesdays, BST 1830-1930 Falcon kayaking time trial Osney - Iffley Sundays, all year 0800-1000 Rowing heads Folly - Iffley Saturdays, term time 0800-1300 Isis closed to college crews Folly - Iffley Wednesdays, term time 1900-late Isis closed to college crews Folly - Iffley For a summary of rules that apply to college crews, see here: https://ourcs.co.uk/information/river-restrictions/</description>
+    </item>
+    
+  </channel>
+</rss>
