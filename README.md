@@ -8,7 +8,7 @@ Originally managed via https://github.com/annarailton/isis-calendar but now mana
 
 The website lives at https://isiscalendar.github.io/
 
-To get something added or for corrections to the content please open a PR or email info@isiscalendar.org.uk (needs updating)
+To get something added or for corrections to the content please open a PR or email info@isiscalendar.org.uk (update)
 
 Location of data
 Data is all under the content directory, in appropriately named .md files (link to markdown cheatsheet). Nothing else should need changing unless you want to play with how the site looks.
