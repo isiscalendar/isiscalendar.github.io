@@ -44,7 +44,7 @@ paginate = 5
     readOtherPosts = ""
 
     [languages.en.params.logo]
-      logoText = "Isis Events 2024"
+      logoText = "Isis Events 2023"
       logoHomeLink = "/"
 
     [languages.en.menu]
