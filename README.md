@@ -3,7 +3,8 @@ Shows information about events held on the Isis (the stretch of Thames in centra
 
 isis-calendar
 A very simple Hugo-powered site that keeps all the info about what's happening on the Thames.
-managed via https://github.com/annarailton/isis-calendar
+
+Originally managed via https://github.com/annarailton/isis-calendar but now managed https://github.com/isiscalendar/isiscalendar.github.io.
 
 The website lives at https://isiscalendar.github.io/
 
